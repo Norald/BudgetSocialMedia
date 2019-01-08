@@ -1,2 +1,2 @@
 # BudgetSocialMedia
-Test project. Spring Boot, Spring MVC, Mustache
+Simple web app. Test project. With technologies:Spring Boot, Spring MVC, Mustache
